@@ -1,0 +1,48 @@
+{
+  "name": "vizfx",
+  "version": "1.0.0",
+  "description": "A lightweight WebGL-based visual effects library for stunning web visuals",
+  "main": "dist/vizfx.js",
+  "module": "dist/vizfx.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "webgl",
+    "effects",
+    "particles",
+    "animation",
+    "canvas",
+    "graphics",
+    "visual-effects",
+    "gpu",
+    "three.js",
+    "shader"
+  ],
+  "author": "VizFX Contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/vizfx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/vizfx/issues"
+  },
+  "homepage": "https://github.com/yourusername/vizfx#readme",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^11.0.0",
+    "rollup": "^4.0.0",
+    "tslib": "^2.6.0",
+    "typescript": "^5.0.0"
+  },
+  "peerDependencies": {},
+  "dependencies": {}
+}
