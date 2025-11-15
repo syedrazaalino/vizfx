@@ -2,6 +2,7 @@
   "name": "vizfx",
   "version": "1.0.1",
   "description": "A lightweight WebGL-based visual effects library for stunning web visuals",
+  "author": "DigitalCloud.no (https://digitalcloud.no)",
   "type": "module",
   "license": "MIT",
   "main": "dist/index.js",

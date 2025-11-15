@@ -340,7 +340,9 @@ MIT License - feel free to use in personal and commercial projects.
 
 ## Credits
 
-Created as an independent, lightweight alternative to Three.js for common web effects. Inspired by the WebGL community and modern web design trends.
+Created and maintained by **[DigitalCloud.no](https://digitalcloud.no)** - A Norwegian digital innovation company specializing in modern web technologies and creative solutions.
+
+Built as an independent, lightweight alternative to Three.js for common web effects. Inspired by the WebGL community and modern web design trends.
 
 ## Contributing
 
