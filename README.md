@@ -1,6 +1,12 @@
 # VizFX
 
+[![npm version](https://img.shields.io/npm/v/vizfx.svg)](https://www.npmjs.com/package/vizfx)
+[![GitHub](https://img.shields.io/badge/GitHub-syedrazaalino%2Fvizfx-blue)](https://github.com/syedrazaalino/vizfx)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A lightweight, independent WebGL-based visual effects library for creating stunning effects on websites. Inspired by Three.js but focused specifically on common web effects rather than full 3D rendering.
+
+**🔗 [View on GitHub](https://github.com/syedrazaalino/vizfx)** | **📦 [View on npm](https://www.npmjs.com/package/vizfx)**
 
 ## Features
 

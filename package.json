@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/vizfx.git"
+    "url": "git+https://github.com/syedrazaalino/vizfx.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/vizfx/issues"
+    "url": "https://github.com/syedrazaalino/vizfx/issues"
   },
-  "homepage": "https://github.com/yourusername/vizfx#readme",
+  "homepage": "https://github.com/syedrazaalino/vizfx#readme",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build && esbuild server/index.ts --platform=node --packages=external --bundle --format=esm --outdir=server-dist",
